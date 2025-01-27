@@ -67,7 +67,7 @@ Contributions are what make this community such an amazing place to learn, inspi
 This project uses common practices to keep the code clean and readable for the entire team. We recommend following to keep the codebase consistent
 
 #### JavaScript
-- Uses functional programming; written with explicit functions for simplicity and readability
+Uses functional programming; written with explicit function declarations for simplicity and readability
 ```js
 async function initialize() {
     submitBtnListener();
@@ -77,7 +77,7 @@ async function initialize() {
 ```
 
 #### CSS/HTML
-- Written using block, elements, and modifiers (BEM) for readability
+Written using BEM naming convention (i.e., block, elements, and modifiers) for readability
 ```html
 <input
   type="submit"

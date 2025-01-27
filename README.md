@@ -1,4 +1,4 @@
-# Lily Pair Scheduler
+# Lily Pair Website
 
 [![Contributors][netlify-shield]][contributors-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -141,8 +141,8 @@ Feel free to use the following as guides:
 Feel free to reach out on [Discord](https://discord.gg/CAzC5bMqzg) if you have any questions or need guidance. Happy contributing!
 
 <!-- Links -->
-[contributors-shield]: https://img.shields.io/github/contributors/EonEnglish/Eon-English-App?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=6e5494&label=contributors
-[contributors-url]: https://github.com/EonEnglish/Eon-English-App/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/EonEnglish/Lily-Pair-Website?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=6e5494&label=contributors
+[contributors-url]: https://github.com/EonEnglish/Lily-Pair-Website/graphs/contributors
 [discord-shield]: https://img.shields.io/badge/Discord-Join-5865f4?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black
 [discord-url]: https://discord.gg/CAzC5bMqzg
 [netlify-shield]: https://img.shields.io/badge/Netlify-Website-5ac4b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black

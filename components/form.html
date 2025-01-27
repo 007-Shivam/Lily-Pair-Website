@@ -1,0 +1,45 @@
+<form action="POST" class="form">
+  <fieldset class="block">
+
+    <label for="name" class="label label--primary required">Enter Full Name</label>
+    <input name="name" id="name" placeholder="Ex. John Doe" class="input input--primary" required />
+
+    <label for="email" class="label label--primary required">Enter Email</label>
+    <input
+      name="email"
+      id="email"
+      placeholder="Ex. JohnDoe@gmail.com"
+      class="input input--primary"
+      required
+    />
+
+    <label for="weChatID" class="label label--primary">Enter WeChatID</label>
+    <input name="weChatID" id="weChatID" placeholder="Ex. JohnDoe813" class="input input--primary" />
+
+    <ul class="checkbox">
+      <label class="label label--primary required">Select available time</label>
+      <li>
+        <input type="checkbox" class="checkbox--primary" id="Mondays" />
+        <label for="Mondays" class="label label--secondary">Mondays</label>
+      </li>
+    </ul>
+
+    <label for="availableTime" class="label label--primary required"
+      >Enter Available Times
+    </label>
+
+    <input
+      name="availableTime"
+      id="availableTime"
+      placeholder="Ex. Fridays from 1 to 5 PM"
+      class="input input--primary"
+      required
+    />
+    
+    <select class="select-menu select-menu--primary input label--secondary" id="select-menu">
+      <option value="" selected disabled>Select a Timezone</option>
+    </select>
+
+    <input type="submit" value="Send" class="btn btn--primary" />
+  </fieldset>
+</form>

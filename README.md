@@ -19,9 +19,10 @@
 - [ About The Project](#about-the-project)
   - [ Key Features](#key-features)
   - [ Built with](#built-with)
-- [ Instructions](#instructions)
-  - [ Courses and Tools](#courses-and-tools)
+- [ Courses and Tools](#courses-and-tools)
 - [ How to Contribute](#how-to-contribute)
+  - [ Coding Conventions](#conventions)
+  - [ Instructions](#instructions)
 
 <br>
 
@@ -45,11 +46,9 @@ Lily pair is a tool to help students find mentors and vice versa. The webpage ca
 
 <br>
 
-## Instructions
+## Courses and Tools
 Currently, this project uses primarily HTML, CSS, and JavaScript. Therefore, we recommend building foundational knowledge, so feel free to use the courses/materials below
 
-
-### Courses and Tools
 - [Codeacademy's JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 
 - [Visual Studio Code (Editor)](https://code.visualstudio.com)
@@ -63,6 +62,46 @@ Currently, this project uses primarily HTML, CSS, and JavaScript. Therefore, we 
 Contributions are what make this community such an amazing place to learn, inspire, and create! Therefore, any contributions you make are **greatly appreciated**!
 
 <br />
+
+### Conventions
+This project uses common practices to keep the code clean and readable for the entire team. We recommend following to keep the codebase consistent
+
+#### JavaScript
+- Uses functional programming; written with explicit functions for simplicity and readability
+```js
+async function initialize() {
+    submitBtnListener();
+    showLoadingCards();
+    // other props...
+}
+```
+
+#### CSS/HTML
+- Written using block, elements, and modifiers (BEM) for readability
+```html
+<input
+  type="submit"
+  value="Send"
+  class="btn btn--primary"
+/>
+```
+```css
+.btn {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* other styles... */
+}
+.btn--primary {
+  color: var(--color-white);
+  font-weight: 600;
+  background: var(--color-blue-normal);
+  /* other styles... */
+}
+```
+
+<br />
+
+## Instructions 
 
 ### 1. Fork or Create a Branch
 - Begin by forking the repository or creating a branch from the [GitHub Repo](https://github.com/EonEnglish/Lily-Pair-Scheduler).  

@@ -5,7 +5,7 @@
 [![Discord-Server][discord-shield]][discord-url]
 
 
-[<img width="1440" alt="Lily Pair Webpage" src="https://github.com/user-attachments/assets/6aaf79dd-73c0-4d1a-a1c7-e01f2f7cca8f">](https://lilypair.netlify.app/)
+[<img width="1440" alt="Lily Pair Webpage" src="https://github.com/user-attachments/assets/d78c74f6-aedf-43e4-8d3f-b66c8320d4a8">](https://lilypairscheduler.netlify.app)
 
 > [!TIP]
 > Click the image to [launch the webpage](https://lilypair.netlify.app/)

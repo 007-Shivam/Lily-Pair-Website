@@ -8,7 +8,7 @@
 [<img width="1440" alt="Lily Pair Webpage" src="https://github.com/user-attachments/assets/d78c74f6-aedf-43e4-8d3f-b66c8320d4a8">](https://lilypairscheduler.netlify.app)
 
 > [!TIP]
-> Click the image to [launch the webpage](https://lilypair.netlify.app/)
+> Click the image to [launch the webpage](https://lilypairscheduler.netlify.app)
 
 <br />
 <br />

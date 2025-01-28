@@ -146,4 +146,4 @@ Feel free to reach out on [Discord](https://discord.gg/CAzC5bMqzg) if you have a
 [discord-shield]: https://img.shields.io/badge/Discord-Join-5865f4?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black
 [discord-url]: https://discord.gg/CAzC5bMqzg
 [netlify-shield]: https://img.shields.io/badge/Netlify-Website-5ac4b7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black
-[netlify-url]: https://lilypair.netlify.app
+[netlify-url]: https://lilypairscheduler.netlify.app

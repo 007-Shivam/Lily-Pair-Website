@@ -58,6 +58,12 @@ Currently, this project uses primarily HTML, CSS, and JavaScript. Therefore, we 
 
 <br>
 
+## Access our Figma Design
+You will have permission to view the document. If you would like to make direct changes, contact a team manager for `write` permissions.
+- [Figma Design](https://www.figma.com/design/jc9JasAyCoFxGAc6VCNzYE/Lily-Pair-Scheduler?t=NGcFxoLzWNmXSJ6W-1)
+
+<br>
+
 ## How to Contribute
 Contributions are what make this community such an amazing place to learn, inspire, and create! Therefore, any contributions you make are **greatly appreciated**!
 

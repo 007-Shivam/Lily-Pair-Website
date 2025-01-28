@@ -103,16 +103,16 @@ Written using BEM naming convention (i.e., block, elements, and modifiers) for r
 
 ## Instructions 
 
-### 1. Fork or Create a Branch
-- Begin by forking the repository or creating a branch from the [GitHub Repo](https://github.com/EonEnglish/Lily-Pair-Scheduler).  
-
-<br />
-
-### 2. Set Up Your Environment
+### 1. Set Up Your Environment
 Feel free to use the following as guides:
 - [Visual Code Studio & Plugins](https://www.youtube.com/watch?v=GCCUwvlbDQ8)
 
 - [How to launch the website](https://www.youtube.com/watch?v=9zteNOpoi-k)
+
+<br />
+
+### 2. Fork or Create a Branch
+- Begin by forking the repository or creating a branch from the [GitHub Repo](https://github.com/EonEnglish/Lily-Pair-Scheduler).  
 
 <br />
 

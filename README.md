@@ -20,6 +20,7 @@
   - [ Key Features](#key-features)
   - [ Built with](#built-with)
 - [ Courses and Tools](#courses-and-tools)
+- [ Access our Figma Design](#access-our-figma-design)
 - [ How to Contribute](#how-to-contribute)
   - [ Coding Conventions](#conventions)
   - [ Instructions](#instructions)

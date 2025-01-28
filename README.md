@@ -124,8 +124,8 @@ Feel free to use the following as guides:
 <br />
 
 ### 3. Pick a Task
-- Visit the **[Planning Tab](https://github.com/orgs/EonEnglish/projects/3/views/1)** on GitHub.  
-- Assign a task to yourself or [create one](https://github.com/EonEnglish/Eon-English-App/issues/new) and assign it to yourself.  
+- Visit the **[Planning Tab](https://github.com/orgs/EonEnglish/projects/9/views/1)** on GitHub.  
+- Assign a task to yourself or [create one](https://github.com/EonEnglish/Lily-Pair-Website/issues/new?template=Blank+issue) and assign it to yourself.  
 - Once assigned, start working on your task.
 
 <br />

@@ -1,6 +1,6 @@
 # Lily Pair Website
 
-[![Contributors][netlify-shield]][contributors-url]
+[![netlify][netlify-shield]][netlify-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Discord-Server][discord-shield]][discord-url]
 
